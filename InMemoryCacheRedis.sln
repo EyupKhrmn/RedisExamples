@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCacheRedis", "InMemoryCacheRedis\InMemoryCacheRedis.csproj", "{8F396620-B930-4716-8C5E-C345ADCAF4BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCachingRedis", "DistributedCachingRedis\DistributedCachingRedis.csproj", "{F5EFE5E6-1209-4AF6-9D6F-F1F9344DD991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F396620-B930-4716-8C5E-C345ADCAF4BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F396620-B930-4716-8C5E-C345ADCAF4BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F396620-B930-4716-8C5E-C345ADCAF4BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F396620-B930-4716-8C5E-C345ADCAF4BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EFE5E6-1209-4AF6-9D6F-F1F9344DD991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EFE5E6-1209-4AF6-9D6F-F1F9344DD991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EFE5E6-1209-4AF6-9D6F-F1F9344DD991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EFE5E6-1209-4AF6-9D6F-F1F9344DD991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
