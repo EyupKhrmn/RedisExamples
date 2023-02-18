@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\DistributedCachingRedis.csproj": {}
+    "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\DistributedCachingRedis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\DistributedCachingRedis.csproj": {
+    "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\DistributedCachingRedis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
+        "projectUniqueName": "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
         "projectName": "DistributedCachingRedis",
-        "projectPath": "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
+        "projectPath": "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
         "packagesPath": "C:\\Users\\Eyup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\obj\\",
+        "outputPath": "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywOuNpiVr7hhXtPIzOGMbTR5KBmPSPNHZzlvCYAxwaUHWPa3LAxLFc0THvcwsdgKeGdXAECEc2KaS0uwrNRNkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\RedisPubSub.Publisher.Example\\RedisPubSub.Publisher.Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eyup\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\Eyup\\.nuget\\packages\\stackexchange.redis\\2.6.90\\stackexchange.redis.2.6.90.nupkg.sha512",
+    "C:\\Users\\Eyup\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

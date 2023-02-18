@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w332OoczsMo7RAx+k4V4E5z2O1LHy6hf1g20IlGZy5SlSyareFug52wa6UUqtmqJx8IrIj0yHbWCqx7EyKcfMQ==",
+  "dgSpecHash": "4IUloAzzlYQz7RxpRrvmlfNRwZZSLIGB5jtNd6W6QAJanRxOZPVJ6UfkaF9rMdoEruycaayLPxQGmNga95VAzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eyup\\RiderProjects\\InMemoryCacheRedis\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
+  "projectFilePath": "C:\\Users\\Eyup\\RiderProjects\\RedisOperations\\DistributedCachingRedis\\DistributedCachingRedis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eyup\\.nuget\\packages\\google.api.commonprotos\\2.2.0\\google.api.commonprotos.2.2.0.nupkg.sha512",
     "C:\\Users\\Eyup\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
